@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/me_2022-0223-search_filter-react/static/css/main.01758138.css",
+    "main.js": "/me_2022-0223-search_filter-react/static/js/main.1a31679f.js",
+    "index.html": "/me_2022-0223-search_filter-react/index.html",
+    "main.01758138.css.map": "/me_2022-0223-search_filter-react/static/css/main.01758138.css.map",
+    "main.1a31679f.js.map": "/me_2022-0223-search_filter-react/static/js/main.1a31679f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01758138.css",
+    "static/js/main.1a31679f.js"
+  ]
+}
